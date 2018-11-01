@@ -1,0 +1,29 @@
+{
+  "name": "hexo-renderer-extended-ejs",
+  "description": "Extended EJS renderer for Hexo",
+  "version": "0.0.1",
+  "author": "Makito <sumimakito@hotmail.com>",
+  "keywords": [
+    "template",
+    "engine",
+    "extended-ejs",
+    "hexo",
+    "plugin",
+    "renderer"
+  ],
+  "devDependencies": {
+    "eslint": "^5.8.0"
+  },
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SumiMakito/extended-ejs.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "exit"
+  },
+  "dependencies": {
+    "extended-ejs": "^0.0.1"
+  }
+}
